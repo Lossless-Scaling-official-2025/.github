@@ -1,7 +1,5 @@
 # Lossless Scaling
 
-**All-in-One Gaming Utility for Scaling and Frame Generation**
-
 ![Lossless Scaling Banner](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/993090/header.jpg?t=1750017101)
 
 ## What is Lossless Scaling?
