@@ -100,7 +100,7 @@
 ---
 
 ## Where to Get Lossless Scaling?
-Available on **[Steam](https://store.steampowered.com/app/993090/Lossless_Scaling/)** and the official website.
+Available on **Steam** and the official website.
 
 [![Lossless Scaling v3.0](https://img.shields.io/badge/GET_LOSSLESS_SCALING-v3.0-%23FF6B00?style=for-the-badge&logo=steam&logoColor=white)](https://tinyurl.com/lossless-scaling-steam)
 
